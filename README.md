@@ -1,3 +1,3 @@
 # task_3_LGM
 student enrollment form 
-[type-runner](file:///D:/Nikhit/FrontEnd_Stuff/practice_projects/LGM_projects/task_3/index.html "test")
+[try](file:///D:/Nikhit/FrontEnd_Stuff/practice_projects/LGM_projects/task_3/index.html.md)
